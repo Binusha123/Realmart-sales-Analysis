@@ -56,5 +56,5 @@ The dashboard helps in understanding:
 
 ---
 
-## 📂 Project Structure
+
 
