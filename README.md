@@ -55,6 +55,7 @@ The dashboard helps in understanding:
 - **Data Cleaning & Transformation** – Preprocessing for accurate insights  
 
 ---
+<img width="1920" height="1080" alt="data analytics workshop" src="https://github.com/user-attachments/assets/840ee848-a395-48e7-851f-21d72c57f3f6" />
 
 
 
